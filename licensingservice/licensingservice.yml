@@ -1,4 +1,4 @@
-example.property: "I AM A PROD PROPERTY OVERRIDE"
+example.property: "I AM A DEFAULT  OVERRIDE"
 tracer.property: "I AM THE DEFAULT"
 spring.jap.database: "MYSQL"
 spring.datasource.platfrm: "mysql"
